@@ -52,10 +52,17 @@ I also build a popularity recommender system using <strong>Turi Create</strong> 
 <br>
 <br> 
 
-## Increasing Revenue by Increasing Order Value
-1. Develop customised strategies to target customer segments
-2. Identify groups of users who are the <em>low hanging fruits</em> to target for marketing efforts
-3. Capture more value from products
+## Business Impact: Increasing Revenue by Increasing Order Value
+Using data science, I was able to derive the following outcomes:
 
+1. Develop customised strategies for each customer segment
+2. Identify groups of users who are the <em>low hanging fruits</em> to target for marketing efforts
+3. Suggest a tweak to loyalty programme to incentivise users to come back sooner
+4. Make recommendations to capture more value from products
+
+## Future Development
+The project was totally exploratory with minimal discussion with business owners of the online restaurant. Possible future development include:
+* Segmenting users into a set number of clusters according to prior knowledge, to achieve business goals 
+* Collecting explicit ratings of products from users to build a recommender system based on item similairity using item-item collaborative filtering
 
 
