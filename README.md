@@ -34,16 +34,17 @@ Some of the issues I faced include:
 
 ## Business Analysis
 I first used descriptive statistics to get a sense of the business situation and find a direction to a problem statement I could work on.
-<br> 
 <br>
-I found that while the number of orders peaked in 2018, average order amount loss 35% value compared to a year before. 
 <br>
-Since sales is a function of price and quantity, I look at both factors to find answers. I plotted the average price on the menu and the average price of items purchased by users and found that both had increased marginally. Hence, order value did not decrease because users were purchasing lower-priced items. I found an answer in quantity per order. <em> Users were placing more orders but each order has less items. </em>
-<br>
+I found that while the number of orders peaked in 2018, average order amount loss 35% value compared to a year before. Since sales is a function of price and quantity, I look at both factors to find answers. I plotted the average price on the menu and the average price of items purchased by users and found that both had increased marginally. Hence, order value did not decrease because users were purchasing lower-priced items. I found an answer in quantity per order. <em> Users were placing more orders but each order has less items. </em>
 
 ## Increasing Revenue by Increasing Order Value
-I used PCA and K-Means Unsupervised Clustering to segment customers by purchase behaviour and products by characteristics. <br> 
-Alternating Least Squares Method was used to build a recommender system for personalised product recommendations. Upon evaluation of the model, I found that the baseline popularity recommender scored higher. The scores were close (0.88 VS 0.93) so it would be worth validating the personalised recommendations via A/B testing. I also build a popularity recommender system using Turi Create to find the best-selling items. This would be useful in a cold-start scenario where there is no purchase history for a new user. 
+I used PCA and K-Means Unsupervised Clustering to segment customers by purchase behaviour and products by characteristics. <br>
+<br>
+Alternating Least Squares Method was used to build a recommender system for personalised product recommendations. Upon evaluation of the model, I found that the baseline popularity recommender scored higher. The scores were close (0.88 VS 0.93) so it would be worth validating the personalised recommendations via A/B testing. 
+<br>
+<br>
+I also build a popularity recommender system using Turi Create to find the best-selling items. This would be useful in a cold-start scenario where there is no purchase history for a new user. 
 
 1. Develop customised strategies to target customer segments
 2. Identify groups of users who are the <em>low hanging fruits</em> to target for marketing efforts
