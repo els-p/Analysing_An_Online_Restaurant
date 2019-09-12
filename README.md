@@ -51,7 +51,7 @@ I grouped users into four buckets using <strong>Recency, Frequency and Monetary 
 I also build a popularity recommender system using <strong>Turi Create</strong> to find the best-selling items. This would be useful in a cold-start scenario where there is no purchase history for a new user. 
 
 ## Business Impact: Increasing Revenue by Increasing Order Value
-Using data science, I was able to derive the following outcomes:
+Using data science, I was able to identify opportunities and threats and derive the following outcomes:
 
 1. Develop customised strategies for each customer segment
 2. Identify groups of users who are the <em>low hanging fruits</em> to target for marketing efforts
