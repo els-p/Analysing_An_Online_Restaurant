@@ -63,6 +63,8 @@ Using data science, I was able to derive the following outcomes:
 ## Future Development
 The project was totally exploratory with minimal discussion with business owners of the online restaurant. Possible future development include:
 * Segmenting users into a set number of clusters according to prior knowledge, to achieve business goals 
-* Collecting explicit ratings of products from users to build a recommender system based on item similairity using item-item collaborative filtering
+* Having users rate products so that the ratings can be used to build a recommender system based on item similairity using item-item collaborative filtering
+* Collecting more user features e.g. identifying home and office address (for demographic information), birthday (for age) etc.
+* Sentiment analysis of reviews
 
 
