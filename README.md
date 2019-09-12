@@ -14,7 +14,6 @@ The data was given to be in mainly five files:
 4. Menu information
 5. Analysis metrics
 <br>
-<br>
 As an NDA was signed, parts of the information are censored. Please reach out to me at els.pse+gh@gmail.com if you have any questions or would like to offer feedback and comments!
 
 ## Problem Statement
@@ -34,7 +33,10 @@ Some of the issues I faced include:
 * Inconsistent definition of labels
 
 ## Business Analysis
-I first used descriptive statistics to get a sense of the business situation and find a direction to a problem statement I could work on. 
+I first used descriptive statistics to get a sense of the business situation and find a direction to a problem statement I could work on.
+<br> 
+<br>
+I found that while the number of orders peaked in 2018, order value was 35% less than the year before. Since sales is a function of price and quantity, I look at both factors to find answers. I plotted the average price on the menu and the average price of items purchased by users and found that both had increased marginally. Hence, order value did not decrease because users were purchasing lower-priced items. I found an answer in quantity per order. Users were placing more orders but each order has less items. 
 
 
 
