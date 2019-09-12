@@ -7,7 +7,7 @@ This project was completed as part a capstone project for the Data Science Immer
 ## Data Collection
 Source: The data was very kindly given to me by a Singapore online restaurant. 
 <br>
-The data was given to be in mainly five files:
+The data was given to me in mainly five files:
 1. User information
 2. Delivery information
 3. Order details
@@ -49,8 +49,6 @@ I grouped users into four buckets using <strong>Recency, Frequency and Monetary 
 <br>
 <br>
 I also build a popularity recommender system using <strong>Turi Create</strong> to find the best-selling items. This would be useful in a cold-start scenario where there is no purchase history for a new user. 
-<br>
-<br> 
 
 ## Business Impact: Increasing Revenue by Increasing Order Value
 Using data science, I was able to derive the following outcomes:
