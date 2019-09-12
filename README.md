@@ -14,7 +14,7 @@ The data was given to me in mainly five files:
 4. Menu information
 5. Analysis metrics
 <br>
-As a non-disclosure agreement was signed, parts of the information are censored. Please reach out to me at els.pse+gh@gmail.com if you have any questions or would like to offer feedback and comments!
+As a non-disclosure agreement was signed, parts of the information are censored. Please reach out to me at <els.pse+gh@gmail.com> if you have any questions or would like to offer feedback and comments!
 
 ## Problem Statement
 A wealth of transaction data is collected by the Food & Beverage industry. What are some possible outcomes from analysis of the available data?
